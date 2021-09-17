@@ -1,10 +1,6 @@
 ## Backend con Node, Express y MongoDB.
 
-### Ejercicio de prueba para una app de sensores. 
-
-<br><br/>
-
-- Imagen del home de la app.
+- Imagen del home de la app de sensores.
 
 ![](https://i.imgur.com/deA2PTs.png)
 
